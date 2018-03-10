@@ -1,0 +1,10 @@
+.sections {
+  font-family: $sans-serif;
+  display: flex;
+  justify-content: center;
+  border-bottom: 1px solid $light-gray;
+}
+
+.sections a {
+  padding: 5px;
+}
